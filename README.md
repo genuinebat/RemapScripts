@@ -1,11 +1,11 @@
-## Reference
+# Reference
 
 These scripts were written using the *[Official AHK Documentaion](https://www.autohotkey.com/docs/v1/)*
 
 Key identification was done using *[this method](https://www.autohotkey.com/docs/v1/KeyList.htm#SpecialKeys)*
 
 
-## Editing and testing scripts
+# Editing and testing scripts
 
 Always ensure that scripts are opened and edited with notepad to avoid any complications
 
@@ -22,7 +22,7 @@ if there is means that the script is running
 4. Once done, right click the AHK icon in the pop up menu and select "Exit" to close the instance of the script
 
 
-## Creating .exe files from .ahk files
+# Creating .exe files from .ahk files
 
 1. Double click the Ahk2Exe.exe file to open the GUI
 
